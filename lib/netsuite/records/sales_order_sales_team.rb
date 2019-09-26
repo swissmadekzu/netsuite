@@ -4,7 +4,7 @@ module NetSuite
       include Support::Fields
       include Support::RecordRefs
       include Support::Records
-      include Namespaces::ListRel
+      include Namespaces::TranSales
 
       fields :is_primary, :contribution
 
