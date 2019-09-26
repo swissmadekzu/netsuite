@@ -250,6 +250,8 @@ module NetSuite
     autoload :SalesOrderShipGroupList,          'netsuite/records/sales_order_ship_group_list'
     autoload :SalesOrderItem,                   'netsuite/records/sales_order_item'
     autoload :SalesOrderItemList,               'netsuite/records/sales_order_item_list'
+    autoload :SalesOrderSalesTeam,              'netsuite/records/sales_order_sales_team'
+    autoload :SalesOrderSalesTeamList,          'netsuite/records/sales_order_sales_team_list'
     autoload :SalesRole,                        'netsuite/records/sales_role'
     autoload :SalesTaxItem,                     'netsuite/records/sales_tax_item'
     autoload :ServiceResaleItem,                'netsuite/records/service_resale_item'
